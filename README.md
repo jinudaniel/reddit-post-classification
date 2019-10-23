@@ -3,9 +3,11 @@ In this repo, I will scrape reddit to get approx. 1000 posts each related to pop
 * TFIDF and Logistic Regression
 * TFIDF and Random Forest.
 * LSTM using TensorFlow 2.0
+* BERT using Pytorch and Transformers library.
 
 ### References.
 * [Scraping Reddit Data](https://towardsdatascience.com/scraping-reddit-data-1c0af3040768)
 * [NLP workshop by Dipanjan Sarkar](https://github.com/dipanjanS/nlp_workshop_odsc19)
 * [EDA of Quora Insincere questions](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-qiqc)
 * [TensorFlow Text Classification](https://www.tensorflow.org/tutorials/keras/text_classification)
+* [Transformers from Hugging Face](https://github.com/huggingface/transformers)
